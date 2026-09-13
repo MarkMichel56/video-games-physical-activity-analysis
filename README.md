@@ -48,16 +48,27 @@ The data preparation process included:
 The different datasets were connected using **Child ID** as the primary identifier.
 
 A **Star Schema** was designed to organize the data and support efficient analysis and reporting.
+<img width="857" height="705" alt="image" src="https://github.com/user-attachments/assets/c5630d7d-9e4b-4bcf-8ffb-075e99fa6b67" />
 
 ## 📈 Dashboard
 
 The Power BI dashboard provides visual analysis of:
 
 * Physical activity levels during the intervention.
+* <img width="1539" height="868" alt="image" src="https://github.com/user-attachments/assets/e53a5231-1ca9-4461-b053-a54e199abd95" />
+
 * Active vs. sedentary video game behavior.
+* <img width="1531" height="865" alt="image" src="https://github.com/user-attachments/assets/3c1e1d11-fed6-4480-9492-2bf23e3f6839" />
+
 * Activity trends across baseline, week 6, and week 10.
+* <img width="1545" height="863" alt="Screenshot 2026-09-13 160304" src="https://github.com/user-attachments/assets/6bc8a4b8-66fa-4e88-913c-e803b576f2ac" />
+
 * Demographic factors and their relationship with activity levels.
+* <img width="1536" height="871" alt="Screenshot 2026-09-13 160337" src="https://github.com/user-attachments/assets/06cacbd5-bdcc-43ca-a7b8-98cda4d45afc" />
+
 * Motivation toward physical and video-game activities.
+* <img width="1551" height="861" alt="image" src="https://github.com/user-attachments/assets/9eb1bd41-c273-4ead-8da9-effeedfaa94d" />
+
 
 ## 🔍 Key Findings
 
